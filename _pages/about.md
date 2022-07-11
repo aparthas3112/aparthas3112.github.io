@@ -1,25 +1,35 @@
 ---
 layout: about
-title: about
+title: I am..
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Astrophysicist | Data-Driven Scientist 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image: testimage.jpg
+  image_cicular: True # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #<p>Max Planck Institute of Radio Astronomy</p>
+   #<p>123 your address street</p>
+   #<p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, welcome to my corner of the internet. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Here you'll find all about my research, software development projects, blog posts and my various side hustles. My CV can be found [here](/cv/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm an astrophysicist. I study neutron stars and use them to search for the weakest gravitational waves in the Universe. Detecting these gravitational waves can help us understand the evolution of galaxies, the dyamics of supermassive black hole mergers and solve some of the biggest fundamental questions in physics. See [this](/projects/gwb) article, where the exciting prospects of such a discovery and how astronomers around the world are collaborating to detect this signal are discussed.
+
+My research also involves software development and data science. I am the lead developer of the data analysis pipeline used for the <a href="https://www.sarao.ac.za/gallery/meerkat/">MeerKAT radio telescope</a> in South Africa. This is one of the most sensitive radio telescopes in the world. I spent a few weeks in Cape Town commissioning this telescope. See [here](/projects/capetown) for some great photos from this trip. 
+
+I also develop Bayesian inference software to aid the detection of weak gravitational waves. [Here](/projects/inference) are some talks and tutorials I have given to students around the world on timing neutron stars, Bayesian statistics and using the relevant software packages.
+
+I am very passionate about science outreach and have given more than 60 talks to non-scientific audiences around the globe. 
+
+When I'm outdoors, I enjoy long-distance cycling and adventure sports. When indoors, I enjoy gaming. 
+
+If not astrophysics, I would either like to be a neuroscientist or a Formula One data scientist. 

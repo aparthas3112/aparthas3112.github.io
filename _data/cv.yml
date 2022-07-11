@@ -2,96 +2,179 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aditya Parthasarathy
     - name: Date of Birth
-      value: 14th March 1879
+      value: 31st December 1991
     - name: Languages
-      value: English, German
+      value: English, Hindi, Tamil & Telugu
+
+
+- title: Technical Expertise
+  type: map
+  contents:
+    - name: Python, Linux & Statistical Inference
+      value: Advanced
+    - name: Data Visualisation, C/C++ & Database management
+      value: Intermediate
+    - name: Containerization & Distributed Computing 
+      value: Intermediate
+
+- title: Astronomy and General Software Expertise
+  type: map
+  contents:
+    - name: PSRCHIVE, TEMPO2, TempoNest
+      value: Advanced
+    - name: Enterprise 
+      value: Intermediate
+    - name: Adobe packages (Photoshop, Lightroom, Illustrator)
+      value: Advanced
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Astrophysics
+      institution: Swinburne University of Technology, Melbourne, Australia
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - A large systematic study of young neutron stars through a novel Bayesian inference framework. 
+        - Developed the data analysis pipeline used in the MeerKAT radio telescope. 
+        - First high-precision study of neutron star rotational properties using the MeerKAT radio telescope. 
+        - Involved in commissioning and building scheduling pipelines for various radio telescopes. 
+
+    - title: Bachelor of Engineering, Instrumentation and Control
+      institution: Anna University, India
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Developed maximum power point tracking algorithms for solar panels used in drones. 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Max Planck Institute for Radio Astronomy, Bonn, Germany
+      year: 2020 - Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Demonstrated for the first time that NASA's Fermi Space telescope can be used to search for gravitational waves. 
+        - Lead an international group of scientists working towards developing and using advanced statistical methodologies to search for gravitational waves. 
+
+    - title: Research Assistant
+      institution: Raman Research Institute, Bangalore, India
+      year: 2015-2017
       description:
-        - Description 1.
-        - Description 2.
+        - Developed software and visualisation toolkits to precisely map radio telescope surfaces.
+        - Assisted in development of various robotics and computer vision projects. 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: International Collaborations
+  type: time_table
+  contents:
+    - year: 2017-Current
+      items: 
+        - <a href="http://ipta4gw.org/">International Pulsar Timing Array (IPTA)</a>
+        - <a href="https://en.wikipedia.org/wiki/European_Pulsar_Timing_Array?oldformat=true">European Pulsar Timing Array (EPTA)</a>
+        - <a href="http://www.meertime.org/">MeerTime</a> (Large Survey Project with the MeerKAT radio telescope)
+        - The <a href="https://glast.sites.stanford.edu/">Fermi Collaboration</a> (NASA)
+        - The <a href="http://www.trapum.org/">TRAPUM</a> collaboration
+        - Former <a href="https://www.ozgrav.org/">OzGrav</a> (Australian Research Council Centre of Excellence) affiliate
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="https://github.com/aparthas3112/meerpipe">MeerPipe</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
+      description: A Python-based data analysis pipeline for analysing neutron star observations with the MeerKAT radio telescope.
+    
+    - title: <a href="https://github.com/aparthas3112/TempoNest">TempoNest</a>
+      year: 2015-now
+      description: A Bayesian inference framework for modelling stochastic processes in time-series data from observing neutron stars. 
+  
+- title: Mentoring and Teaching
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017-2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - International Pulsar Timing Array Student Workshops (for tutorials, see Blog)
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - <a href="https://www.sarao.ac.za/courses/meerkat-pulsar-timing-workshop/">South African Pulsar Timing Workshop</a>
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: 2017-2021
       items:
-        - Description 1.
-        - Description 2.
+        - Public outreach talks (see Blog)
 
-- title: Other Interests
-  type: list
+- title: International Conferences
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2022 
+      items: 
+        - Virtual IPTA meeting
+
+    - year: 2022 
+      items: 
+        - PHAROS meeting in Rome, Italy
+
+    - year: 2022 
+      items: 
+        - EPTA meeting, Ringberg, Germany (Lead Organiser)
+
+    - year: 2021 
+      items: 
+        - Virtual EPTA meeting
+        
+    - year: 2021 
+      items: 
+        - Virtual AMALDI meeting
+
+    - year: 2021 
+      items: 
+        - Virtual IPTA meeting
+
+    - year: 2019 
+      items: 
+        - OzGrav Inference Workshop, Melbourne, Australia
+
+    - year: 2019 
+      items: 
+        - IPTA meeting, India
+
+    - year: 2018 
+      items: 
+        - OzGrav retreat, Perth, Australia
+
+    - year: 2018 
+      items: 
+        - IPTA meeting, Socorro, New Mexico (Scientific Organising Committee)
+
+    - year: 2018 
+      items: 
+        - Fast Radio Bursts Conference, Melbourne, Australia
+
+    - year: 2017 
+      items: 
+        - SearchSoft conference, Cape Town, South Africa
+
+    - year: 2017 
+      items: 
+        - CSIRO Radio Astronomy Conference, Narrabri, Australia
+
+    - year: 2017 
+      items: 
+        - IPTA meeting, Sèvres, France
+
+    - year: 2017 
+      items: 
+        - Futute of Pulsar Timing with Parkes, Parkes, Australia
+
+    - year: 2016 
+      items: 
+        - CAASTRO Retreat, Perth, Australia
+
+    - year: 2016 
+      items: 
+        - Visiting researcher at Auckland University of Technology, New Zealand
+
+    - year: 2015 
+      items: 
+        - IPTA meeting, Sydney, Australia
+
+
+
