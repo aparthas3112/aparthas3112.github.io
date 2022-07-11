@@ -15,9 +15,9 @@
     - name: Python, Linux & Statistical Inference
       value: Advanced
     - name: Data Visualisation, C/C++ & Database management
-      value: Intermediate
+      value: Proficient
     - name: Containerization & Distributed Computing 
-      value: Intermediate
+      value: Proficient
 
 - title: Astronomy and General Software Expertise
   type: map
@@ -25,9 +25,9 @@
     - name: PSRCHIVE, TEMPO2, TempoNest
       value: Advanced
     - name: Enterprise 
-      value: Intermediate
+      value: Proficient
     - name: Adobe packages (Photoshop, Lightroom, Illustrator)
-      value: Advanced
+      value: Proficient
 
 - title: Education
   type: time_table
