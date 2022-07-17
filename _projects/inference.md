@@ -48,7 +48,7 @@ Below, I have compiled some of my tutorials on pulsar timing and Bayesian infere
 
 TempoNest is a package that is widely used within the pulsar timing community to model various noise processes in pulsar timing data. This is crucial in detecting weak signals like the gravitaional wave background. 
 
-<a href="/assets/pdf/TempoNest_AP.pdf">Here</a> is my tutorial on using TempoNest. For an exa
+<a href="/assets/pdf/TempoNest_AP.pdf">Here</a> is my tutorial on using TempoNest.
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">
