@@ -28,6 +28,8 @@ My research also involves software development and data science. I am the lead d
 
 I also develop Bayesian inference software to aid the detection of weak gravitational waves. [Here](/projects/inference) are some talks and tutorials I have given to students around the world on timing neutron stars, Bayesian statistics and using the relevant software packages.
 
+For a collection of my software development projects, see [here](/projectswebpage). 
+
 I am very passionate about science outreach and have given more than 60 talks to non-scientific audiences around the globe. 
 
 When I'm outdoors, I enjoy long-distance cycling and adventure sports. When indoors, I enjoy gaming. 
