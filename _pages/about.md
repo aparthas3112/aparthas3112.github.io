@@ -34,4 +34,4 @@ I am very passionate about science outreach and have given more than 60 talks to
 
 When I'm outdoors, I enjoy long-distance cycling and adventure sports. When indoors, I enjoy gaming. 
 
-If not astrophysics, I would either like to be a neuroscientist or a Formula One data scientist. 
+Apart from astrophysics, I am passionate about neuroscience, advanced data modelling, formula one and mixology. 

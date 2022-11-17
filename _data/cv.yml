@@ -104,6 +104,14 @@
 - title: International Conferences
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - Einstein telescope community meeting, Hanover, Germany
+
+    - year: 2022
+      items:
+        - Gravitational Wave Orchestra meeting, Belgium
+    
     - year: 2022 
       items: 
         - Virtual IPTA meeting
