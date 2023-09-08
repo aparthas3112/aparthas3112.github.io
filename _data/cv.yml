@@ -49,7 +49,7 @@
 
 - title: Experience
   type: time_table
-  contents:
+  contents: 
     - title: Postdoctoral Researcher
       institution: Max Planck Institute for Radio Astronomy, Bonn, Germany
       year: 2020 - Current
