@@ -50,12 +50,22 @@
 - title: Experience
   type: time_table
   contents: 
+    - title: ERC Starting Grant and Veni Fellow
+      institution: ASTRON, the Netherlands Institute for Radio Astronomy.
+      year: Current
+      description:
+        - Group leader for GIGA, an ERC-funded project to advance pulsar timing arrays in radio and gamma-ray wavelengths. 
+
+    - title: Postdoctoral Researcher
+      institution: Albert Einstien Institute, Max Planck Institute for Gravitational Physics (AEI), Hannover, Germany
+      year: 2023 August - 2023 October    
+
     - title: Postdoctoral Researcher
       institution: Max Planck Institute for Radio Astronomy, Bonn, Germany
-      year: 2020 - Current
+      year: 2020 - August 2023
       description:
         - Demonstrated for the first time that NASA's Fermi Space telescope can be used to search for gravitational waves. 
-        - Lead an international group of scientists working towards developing and using advanced statistical methodologies to search for gravitational waves. 
+        - Led an international group of scientists working towards developing advanced statistical methodologies in the search for the gravitational wave background using pulsar timing arrays. 
 
     - title: Research Assistant
       institution: Raman Research Institute, Bangalore, India
